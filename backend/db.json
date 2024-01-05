@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom!",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Godoi",
+      "autoria": "Vc consegue!",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Aprendendo Next",
+      "autoria": "Dev Aline",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "conteudo": "Aprendendo PHP",
+      "autoria": "Dev Aline",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "João Diniz",
+      "autoria": "Dev Sênior Júnior",
+      "modelo": "modelo2",
+      "id": 8
+    }
+  ]
+}
