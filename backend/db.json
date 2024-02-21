@@ -12,7 +12,7 @@
       "conteudo": "Godoi",
       "autoria": "Vc consegue!",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "conteudo": "João Diniz",
       "autoria": "Dev Sênior Júnior",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 8
     },
     {
