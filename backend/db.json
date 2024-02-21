@@ -8,57 +8,43 @@
       "favorito": false
     },
     {
-      "id": 2,
-      "conteudo": "Godoi",
-      "autoria": "Vc consegue!",
+      "id": 3,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Alura",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 6,
+      "conteudo": "Aprendendo NextJs",
+      "autoria": "Alura",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 7,
+      "conteudo": "Aprendendo PHP",
+      "autoria": "Alura",
       "modelo": "modelo2",
       "favorito": true
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3",
-      "favorito": false
-    },
-    {
-      "id": 6,
-      "conteudo": "Aprendendo Next",
-      "autoria": "Dev Aline",
-      "modelo": "modelo3",
-      "favorito": false
-    },
-    {
-      "conteudo": "Aprendendo PHP",
-      "autoria": "Dev Aline",
-      "modelo": "modelo1",
-      "favorito": true,
-      "id": 7
-    },
-    {
-      "conteudo": "João Diniz",
-      "autoria": "Dev Sênior Júnior",
-      "modelo": "modelo2",
-      "favorito": true,
-      "id": 8
-    },
-    {
       "id": 9,
-      "conteudo": "Aprendendo Angular",
+      "conteudo": "Aprendendo Laravel",
       "autoria": "Alura",
-      "modelo": "modelo2",
-      "favorito": false
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 10,
-      "conteudo": "Aprendendo Angular",
+      "conteudo": "Aprendendo React",
       "autoria": "Alura",
-      "modelo": "modelo3",
+      "modelo": "modelo1",
       "favorito": false
     },
     {
       "id": 11,
-      "conteudo": "Aprendendo Angular",
+      "conteudo": "Aprendendo Node",
       "autoria": "Alura",
       "modelo": "modelo1",
       "favorito": false
